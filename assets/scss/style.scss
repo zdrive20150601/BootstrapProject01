@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
 @import "bootstrap";
 
+h2.display-4 {
+  font-family: 'Raleway';
+  font-weight: bold;
+  color: $primary;
+}
+
 #backbtn {
   position: fixed;
   bottom: 20px;
